@@ -1,5 +1,5 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Advanced Quantization Techniques for Large Language Models
+This is the repository for the LinkedIn Learning course `Advanced Quantization Techniques for Large Language Models`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![lil-thumbnail-url]
 
