@@ -14,8 +14,6 @@ Learning objectives:
 - Optimize quantization results through advanced calibration strategies.
 - Compare and select quantization methods based on model architecture and use case requirements.
 
-_See the readme file in the main branch for updated instructions and information._
-
 
 ## Instructor
 
